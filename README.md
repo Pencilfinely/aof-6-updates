@@ -1,9 +1,11 @@
 # 命术 6.0 · 联机测试包与自动更新
 
-[下载 Windows x64 测试包 v0.6.0-pvp.6](https://github.com/Pencilfinely/aof-6-updates/releases/tag/v0.6.0-pvp.6)。无需登录 GitHub。完整解压 ZIP 后，双击 `AOF6.exe` 或「启动命术.cmd」，无需安装 Godot 或 .NET。
+[下载 Windows x64 测试包 v0.6.0-pvp.7](https://github.com/Pencilfinely/aof-6-updates/releases/tag/v0.6.0-pvp.7)。无需登录 GitHub。完整解压 ZIP 后，双击 `AOF6.exe` 或「启动命术.cmd」，无需安装 Godot 或 .NET。
 
 这版支持双方各选自己的卡组、猜拳决定首局先后手、三路／五路、BO1／BO3，以及最多 20 张备牌。主牌与备牌合计执行同名和色组限制。房主建房，朋友输入可达的 IP:端口加入；默认 TCP 23960。
 
 从 v0.6.0-pvp.5 起，启动后自动检查 `latest.json`，后台分段并行下载并核对 SHA-256，连接中断时续传剩余部分；标题页空闲时安装重启，对局及训练期间延后。个人卡组、备牌与设置保留，安装失败会回滚。v0.6.0-pvp.4 及更早版本需要先手动下载本版一次。
 
 本仓库只发布编译后的测试包、说明和更新清单，源码仓库保持私有。详细使用说明与 `SHA256SUMS.txt` 随每次 Release 提供。
+
+v7：战场顶部可「投降本局」，BO3 未结束时继续换牌；任一玩家退出或断线，另一方获得整场胜利，房主关闭程序也适用。正常关闭连接立即结算，网络失联约 8 秒确认超时后判胜。双方请更新到同一版本。
