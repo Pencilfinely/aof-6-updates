@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0-pvp.5",
-  "bytes": 173486995,
-  "folder": "AOF6-20261010-pvp5-win-x64",
-  "notes": "后排进攻前排、卡牌原名、联机同步动画与自动更新",
-  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.5/AOF6-20261010-pvp5-win-x64.zip",
-  "sha256": "7d83cbc61545973c8b733af5e196ae4ce9b9219d44ec7ec6fa0611ed2c9c2b12"
+  "folder": "AOF6-20261010-pvp6-win-x64",
+  "version": "0.6.0-pvp.6",
+  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.6/AOF6-20261010-pvp6-win-x64.zip",
+  "bytes": 173488795,
+  "sha256": "bd4ace955fe316222501d50ac683865716e063651e25e57f8826e3ee39635137",
+  "notes": "并行下载与断线续传、后排进攻前排、卡牌原名及联机动画修复"
 }
