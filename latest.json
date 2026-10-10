@@ -1,8 +1,8 @@
 {
-  "folder": "AOF6-20261010-pvp6-win-x64",
-  "version": "0.6.0-pvp.6",
-  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.6/AOF6-20261010-pvp6-win-x64.zip",
-  "bytes": 173488795,
-  "sha256": "bd4ace955fe316222501d50ac683865716e063651e25e57f8826e3ee39635137",
-  "notes": "并行下载与断线续传、后排进攻前排、卡牌原名及联机动画修复"
+  "folder": "AOF6-20261010-pvp7-win-x64",
+  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.7/AOF6-20261010-pvp7-win-x64.zip",
+  "version": "0.6.0-pvp.7",
+  "bytes": 173493127,
+  "notes": "断线或退出判整场负、战场投降与 BO3 结算、快速退出报错修复",
+  "sha256": "6be20d89e573b3d7a3efe38aec91e1fc8f0c8bdeb4e4fdd171363a38ec3da595"
 }
