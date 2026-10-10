@@ -1,8 +1,8 @@
 {
-  "folder": "AOF6-20261010-pvp7-win-x64",
-  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.7/AOF6-20261010-pvp7-win-x64.zip",
-  "version": "0.6.0-pvp.7",
-  "bytes": 173493127,
-  "notes": "断线或退出判整场负、战场投降与 BO3 结算、快速退出报错修复",
-  "sha256": "6be20d89e573b3d7a3efe38aec91e1fc8f0c8bdeb4e4fdd171363a38ec3da595"
+  "version": "0.6.0-pvp.8",
+  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.8/AOF6-20261010-pvp8-win-x64.zip",
+  "sha256": "7875f0031034382e1b31e39a0136e44f011456e8f4da0ad85e0cdad7e42df703",
+  "bytes": 179394151,
+  "folder": "AOF6-20261010-pvp8-win-x64",
+  "notes": "新增弗兰克三个等级、梦魇、玛塔尼斯、西川1/2、陀古萨一号和卡珀三式卡图，共 74 张牌带图；保留个人卡组与统计。"
 }
