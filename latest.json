@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0-pvp.8",
-  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.8/AOF6-20261010-pvp8-win-x64.zip",
-  "sha256": "7875f0031034382e1b31e39a0136e44f011456e8f4da0ad85e0cdad7e42df703",
-  "bytes": 179394151,
-  "folder": "AOF6-20261010-pvp8-win-x64",
-  "notes": "新增弗兰克三个等级、梦魇、玛塔尼斯、西川1/2、陀古萨一号和卡珀三式卡图，共 74 张牌带图；保留个人卡组与统计。"
+  "version": "0.6.0-pvp.9",
+  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.9/AOF6-20261011-pvp9-win-x64.zip",
+  "sha256": "3507b36d144bf1b4581f56152493cdbeed3295ceb2f17dff6d253238743124ac",
+  "bytes": 181611343,
+  "folder": "AOF6-20261011-pvp9-win-x64",
+  "notes": "修复连续攻击、重置及联机动画跳回重复、起手控制台报错；施放队列按实际速度排序，天贯龙骑击速度 2。双方需升级至 v9。保留个人卡组与统计。"
 }
