@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0-pvp.9",
-  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.9/AOF6-20261011-pvp9-win-x64.zip",
-  "sha256": "3507b36d144bf1b4581f56152493cdbeed3295ceb2f17dff6d253238743124ac",
-  "bytes": 181611343,
-  "folder": "AOF6-20261011-pvp9-win-x64",
-  "notes": "修复连续攻击、重置及联机动画跳回重复、起手控制台报错；施放队列按实际速度排序，天贯龙骑击速度 2。双方需升级至 v9。保留个人卡组与统计。"
+  "version": "0.6.0-pvp.10",
+  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.10/AOF6-20261013-pvp10-win-x64.zip",
+  "sha256": "5ed92c734f54a9f784a2a4863bb92c1f94a069cc34b0a8161545ecd59cb2e560",
+  "bytes": 179437365,
+  "folder": "AOF6-20261013-pvp10-win-x64",
+  "notes": "同步新版卡表（36 张更新）与双路三张／单路四张胜利规则；AI 预测本轮战局，计算有效伤害、费用与资源价值，改善守路、强化、抓牌及护盾取舍。双方联机需更新至 v10，保留个人卡组与统计。"
 }
