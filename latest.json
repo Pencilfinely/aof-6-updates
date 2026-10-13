@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0-pvp.10",
-  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.10/AOF6-20261013-pvp10-win-x64.zip",
-  "sha256": "5ed92c734f54a9f784a2a4863bb92c1f94a069cc34b0a8161545ecd59cb2e560",
-  "bytes": 179437365,
-  "folder": "AOF6-20261013-pvp10-win-x64",
-  "notes": "同步新版卡表（36 张更新）与双路三张／单路四张胜利规则；AI 预测本轮战局，计算有效伤害、费用与资源价值，改善守路、强化、抓牌及护盾取舍。双方联机需更新至 v10，保留个人卡组与统计。"
+  "version": "0.6.0-pvp.11",
+  "url": "https://github.com/Pencilfinely/aof-6-updates/releases/download/v0.6.0-pvp.11/AOF6-20261013-pvp11-win-x64.zip",
+  "sha256": "34d8f97eff53535e4c6bab7bcdede7448662bc88e9bdd400b7cbfb2b5a5572f2",
+  "bytes": 181651844,
+  "folder": "AOF6-20261013-pvp11-win-x64",
+  "notes": "修复卡组＋加入与主备牌移入；采用3／5、识体命中两次独立判定（神龙傲天四次），第一张补到门槛后第二张可获胜；同步AI推演并微调乾／离预组，玩家改过的官方预组另存保留副本。联机双方需更新至v11，保留个人卡组、统计与模型。"
 }
